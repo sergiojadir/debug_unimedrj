@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = DebugUnimedrj::VERSION
   spec.authors       = ["Sergio Jadir Ribeiro Leite"]
   spec.email         = ["jadirleite@unimedrj.coop.br"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Debug helper}
+  spec.description   = %q{Simple debug helper. Alias to puts ruby method}
   spec.homepage      = ""
   spec.license       = "MIT"
 
