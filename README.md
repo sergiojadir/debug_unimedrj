@@ -17,8 +17,15 @@ Or install it yourself as:
     $ gem install debug_unimedrj
 
 ## Usage
+	
+	Call p80 method in your project or console:
+		
+		p80 "ruby"
 
-TODO: Write usage instructions here
+		output:
+			"********************************************************************************"
+			"ruby"
+			"********************************************************************************"
 
 ## Contributing
 
