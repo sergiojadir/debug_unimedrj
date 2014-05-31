@@ -6,7 +6,7 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'debug_unimedrj'
+    gem 'debug_unimedrj', '~> 0.0.2'
 
 And then execute:
 
